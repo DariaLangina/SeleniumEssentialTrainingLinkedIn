@@ -19,3 +19,16 @@ buildNumber.properties
 *.ear
 *.nar
 hs_err_pid*
+
+# Project generated files
+.idea
+.gradle/
+/gradlew
+/gradlew.bat
+build/
+bin/
+out/
+logs/
+.classpath
+.project
+*.properties
